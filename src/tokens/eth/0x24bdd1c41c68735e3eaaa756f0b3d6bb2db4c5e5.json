@@ -1,0 +1,35 @@
+{
+"symbol": "MTQ",
+"name": "Metaverse Quantum",
+"type": "ERC20",
+"address": "0x24bdd1c41c68735e3eaaa756f0b3d6bb2db4c5e5",
+"ens_address": "",
+"decimals": 10,
+"website": "https://www.metaversequantum.com",
+"logo": {
+"src": "https://www.metaversequantum.com/metaversequantum-image-png",
+"width": "128px",
+"height": "128px",
+"ipfs_hash": ""
+},
+"support": {
+"email": "MetaverseQuantum@MetaverseQuantum.com",
+"url": "https://www.metaversequantum.com"
+},
+"social": {
+"blog": "",
+"chat": "",
+"discord": "",
+"facebook": "https://www.google.com/url?q=https%3A%2F%2Fm.facebook.com%2FMetaverse-Quantum-108058074767490%2Fposts&sa=D&sntz=1&usg=AFQjCNGL5JKpoHgMPA4T2CHK-SiatWd-CQ",
+"forum": "",
+"github": "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FMetaverseQuantum&sa=D&sntz=1&usg=AFQjCNFQ8XkuHKzIO8aAfhLSmHwEHRJyfg",
+"gitter": "",
+"instagram": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fmetaversequantum%2F&sa=D&sntz=1&usg=AFQjCNE8-DYxDBRVmnnkPZEPRtMN1NatcQ",
+"linkedin": "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmetaverse-quantum&sa=D&sntz=1&usg=AFQjCNGjYFNXJAJOdPl-qKSZdetua6Pb_g",
+"reddit": "",
+"slack": "",
+"telegram": "",
+"twitter": "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fmtqquantum%3Flang%3Den&sa=D&sntz=1&usg=AFQjCNEnKw3GZEABw4h2xJKdT0SdO_ayaw",
+"youtube": ""
+}
+}
